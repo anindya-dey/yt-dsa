@@ -2,4 +2,5 @@
 
 Problems in this pattern:
 
-- In-place Reversal of Linked List
+- Reverse Linked List
+- Reverse Linked List II (Reverse Sublist)
