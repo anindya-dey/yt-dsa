@@ -8,6 +8,8 @@
    - [LeetCode Link](https://leetcode.com/problems/robot-return-to-origin/)
 4. Largest Element in Array
    - [GeeksForGeeks Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+5. Remove Duplicates from Sorted Array
+   - [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 ---
 
