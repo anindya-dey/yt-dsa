@@ -4,10 +4,12 @@
    - [LeetCode Link](https://leetcode.com/problems/two-sum/) 
 2. Two Sum II
    - [LeetCode Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
-3. Robot Return to Origin
+3. Robot Return To Origin
    - [LeetCode Link](https://leetcode.com/problems/robot-return-to-origin/)
-4. Largest Element in Array
+4. Largest Element In Array
    - [GeeksForGeeks Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+5. Check If Array Is Sorted
+   - [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)
 
 ---
 
