@@ -1,4 +1,4 @@
-# Pattern: Reversal of Linked List
+# Pattern: Linked List Reversal
 
 Problems in this pattern:
 
