@@ -26,3 +26,5 @@
   - [LeetCode Link](https://leetcode.com/problems/sort-colors/description/)
 - Merge Sorted Arrays
   - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/description/)
+- Squares of a Sorted Array
+  - [LeetCode Link](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
