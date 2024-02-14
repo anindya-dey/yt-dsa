@@ -24,3 +24,5 @@
   - [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 - Sort Colors or Sort Array of 0s, 1s and 2s
   - [LeetCode Link](https://leetcode.com/problems/sort-colors/description/)
+- Merge Sorted Arrays
+  - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/description/)
